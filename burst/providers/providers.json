@@ -1,7 +1,7 @@
 {
     "0day": {
         "anime_extra": "",
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} Сезон {season}",
         "anime_query": "",
         "base_url": "https://tracker.0day.kiev.ua/browse.php?c10=1&c11=1&c29=1&c34=1&c20=1&c12=1&c13=1&c21=1&c15=1&c16=1&c27=1&c28=1&c41=1&c19=1&c30=1&c23=1&search=QUERYEXTRA&incldead=0&where=0&sort=7&type=desc",
@@ -17,7 +17,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'returnto': '/browse.php'}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "0day",
         "parser": {
@@ -42,12 +42,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} Сезон {season}"
     },
     "1337x": {
         "anime_extra": "",
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_keywords_fallback2": "{title} season {season}",
         "anime_keywords_fallback3": "{title} {season:2}x01",
@@ -64,7 +64,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "1337x",
         "parser": {
@@ -89,7 +89,7 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": null,
         "tv_keywords_fallback": "{title} s{season:2}",
         "tv_keywords_fallback2": "{title} season {season}",
@@ -111,7 +111,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'login': u'Вход'}",
         "login_path": "/ucp.php?mode=login",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "3d-tracker.ru",
         "parser": {
@@ -141,7 +141,7 @@
     },
     "baibako": {
         "anime_extra": "",
-        "anime_keywords": "{title:original} /s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} /s{season:2}e{episode:2} {x265}",
         "base_url": "http://baibako.tv/browse.php?search=QUERYEXTRA&incldead=0&cat=0&videoformat=0&sort=7&type=desc",
         "color": "FFFFFFFF",
         "enabled": true,
@@ -179,11 +179,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} /s{season:2}e{episode:2} {x265:hevc}"
+        "tv_keywords": "{title:original} /s{season:2}e{episode:2} {x265}"
     },
     "bithumen": {
         "anime_extra": "",
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "base_url": "https://bithumen.be/browse.php?search=QUERY",
@@ -198,7 +198,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "&c23=1&c25=1&c37=1",
         "name": "bitHUmen",
         "parser": {
@@ -221,13 +221,13 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "bitnova": {
         "anime_extra": null,
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "base_url": "https://bitnova.info/search?q=QUERY&cid=0",
@@ -242,7 +242,7 @@
         "login_object": "{'login': USERNAME, 'pass': PASSWORD, 'remember': '1'}",
         "login_path": "/login.php?action=login",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "BitNova",
         "parser": {
@@ -266,12 +266,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "bluebird": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} Сезон {season}",
         "base_url": "https://bluebird-hd.org/browse.php?webdl=0&3d=0&search=QUERYEXTRA&incldead=0&dsearch=&stype=and&sort=7&type=desc",
         "charset": "windows-1251",
@@ -286,7 +286,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'returnto': '/browse.php'}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} ({year} {x265:hevc})",
+        "movie_keywords": "{title:original} ({year} {x265})",
         "movie_query": "",
         "name": "BlueBird",
         "parser": {
@@ -311,12 +311,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} Сезон {season}"
     },
     "cpasbien": {
         "anime_extra": "",
-        "anime_keywords": "{title:fr} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:fr} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:fr} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:fr} s{season:2}",
         "anime_query": "series/QUERYEXTRA.html",
@@ -332,7 +332,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:fr} {year} {x265:hevc}",
+        "movie_keywords": "{title:fr} {year} {x265}",
         "movie_query": "QUERYEXTRA",
         "name": "Cpasbien",
         "parser": {
@@ -357,13 +357,13 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:fr} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:fr} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:fr} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:fr} s{season:2}"
     },
     "ettv": {
         "anime_extra": "",
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "",
@@ -379,7 +379,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "ETTV",
         "parser": {
@@ -403,13 +403,13 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "eztv": {
         "anime_extra": null,
-        "anime_keywords": "'{title:original}' s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "'{title:original}' s{season:2}e{episode:2} {x265}",
         "base_url": "https://eztv.re/search/QUERYEXTRA",
         "color": "FF0F559D",
         "enabled": true,
@@ -447,11 +447,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "'{title:original}' s{season:2}e{episode:2} {x265:hevc}"
+        "tv_keywords": "'{title:original}' s{season:2}e{episode:2} {x265}"
     },
     "filelist": {
         "anime_extra": "",
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "?username=USERNAME&passkey=PASSKEY&action=search-torrents&type=name&query=QUERY",
@@ -489,12 +489,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "filetracker": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "base_url": "https://filetracker.pl/szukaj.php?active=0&search=QUERY&order=seeds&by=DESC",
@@ -509,7 +509,7 @@
         "login_object": "{'uid': USERNAME, 'pwd': PASSWORD}",
         "login_path": "/zaloguj?returnto=%2F",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "FileTracker.PL",
         "parser": {
@@ -533,12 +533,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "gimmepeers": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "base_url": "https://www.gimmepeers.com/browse.php?search=QUERYEXTRA&cat=0&blah=0",
@@ -553,7 +553,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "GimmePeers",
         "parser": {
@@ -577,12 +577,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "glotorrents": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "28&incldead=0&inclexternal=0&lang=0&sort=seeders&order=desc",
@@ -598,7 +598,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "1&incldead=0&inclexternal=0&lang=0&sort=seeders&order=desc",
         "name": "GloTorrents",
         "parser": {
@@ -622,12 +622,12 @@
         "subpage": null,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "hd-torrents": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "EXTRA",
@@ -644,7 +644,7 @@
         "login_object": "{'uid': USERNAME, 'pwd': PASSWORD, 'csrfToken': CSRF_TOKEN}",
         "login_path": "/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "HD Torrents",
         "parser": {
@@ -669,12 +669,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "idope": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:originak} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "4",
@@ -690,7 +690,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "1",
         "name": "idope",
         "parser": {
@@ -714,12 +714,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:originak} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "ilcorsaroblu": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "base_url": "https://www.ilcorsaroblu.org/index.php?page=torrents&search=QUERYEXTRA&order=5&by=2&x=0&y=0",
         "color": "FFFFFFFF",
@@ -733,7 +733,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Il Corsaro Blu",
         "parser": {
@@ -756,12 +756,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "ilcorsaronero": {
-        "anime_keywords": "{title:it} s{season:2}e{episode:2} {x265:hevc}",
-        "anime_keywords2": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:it} s{season:2}e{episode:2} {x265}",
+        "anime_keywords2": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:it} s{season:2}",
         "anime_query": "/advsearch.php?category=5&search=QUERYEXTRA&order=data&by=DESC&page=0",
         "base_url": "https://ilcorsaronero.link",
@@ -777,8 +777,8 @@
         "login_path": null,
         "movie_extra": "",
         "movie_extra2": "",
-        "movie_keywords": "{title:it} {year} {x265:hevc}",
-        "movie_keywords2": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:it} {year} {x265}",
+        "movie_keywords2": "{title:original} {year} {x265}",
         "movie_query": "/advsearch.php?category=1;20&search=QUERYEXTRA&order=data&by=DESC&page=0",
         "name": "Il Corsaro Nero",
         "parser": {
@@ -802,12 +802,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:it} s{season:2}e{episode:2} {x265:hevc}",
-        "tv_keywords2": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:it} s{season:2}e{episode:2} {x265}",
+        "tv_keywords2": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:it} s{season:2}"
     },
     "ilcorsarored": {
-        "anime_keywords": "{title:it} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:it} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:it} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:it} s{season:2}",
         "anime_query": "EXTRA",
@@ -833,7 +833,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:it} {year} {x265:hevc}",
+        "movie_keywords": "{title:it} {year} {x265}",
         "movie_query": "",
         "name": "Corsaro.red",
         "parser": {
@@ -858,14 +858,14 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:it} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:it} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:it} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:it} s{season:2}",
         "tv_query": ""
     },
     "iptorrents": {
         "anime_extra": "",
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "",
         "base_url": "https://www.iptorrents.com/t?q=QUERYEXTRA&qf=ti#torrents",
@@ -880,7 +880,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/take_login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "IPTorrents",
         "parser": {
@@ -904,11 +904,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "itorrent": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:originak} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": null,
@@ -924,7 +924,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "iTorrent",
         "parser": {
@@ -948,12 +948,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:originak} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "kickass": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "%20category:anime/?field=seeders&sorder=desc&QUERY",
@@ -969,7 +969,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "QUERY",
         "name": "KickAss",
         "parser": {
@@ -993,12 +993,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "kinozal": {
-        "anime_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:ru:en} {season}+Сезон",
         "anime_keywords_fallback": "{title:original} {season}+Сезон",
         "anime_query": "",
@@ -1015,8 +1015,8 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'autologin': '1', 'login': 'Вход'}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title:ru:en} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:ru:en} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Кинозал",
         "parser": {
@@ -1041,12 +1041,12 @@
         "subpage": true,
         "subpage_mode": "xhr",
         "tv_extra": "",
-        "tv_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:ru:en} {season}+Сезон",
         "tv_keywords_fallback": "{title:original} {season}+Сезон"
     },
     "limetorrents": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "",
         "base_url": "https://www.limetorrents.info/search/all/QUERY/seeds/1/",
@@ -1062,7 +1062,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "LimeTorrents",
         "parser": {
@@ -1085,11 +1085,11 @@
         "subpage": null,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "linkomanija": {
-        "anime_keywords": "+{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "+{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "+{title:original} s{season:2}",
         "anime_query": "/browse.php?c38=1&incldead=0&h=10&d=DESC&search=%2BQUERYEXTRA",
         "base_url": "https://www.linkomanija.net",
@@ -1104,7 +1104,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'commit': 'Prisijungti', 'login_cookie': '1'}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original:en} {year} {x265:hevc}",
+        "movie_keywords": "{title:original:en} {year} {x265}",
         "movie_query": "/browse.php?c29=1&c52=1&c53=1&c61=1&c51=1&c64=1&c58=1&incldead=0&h=10&d=DESC&search=%2BQUERYEXTRA",
         "name": "Linkomanija",
         "parser": {
@@ -1128,13 +1128,13 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "+{title:original:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "+{title:original:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "+{title:original:en} s{season:2}",
         "tv_keywords_fallback": "+{title:original:en}",
         "tv_keywords_fallback": "+{title}"
     },
     "magnetdl": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_keywords_fallback2": "{title:original} season {season}",
         "anime_query": "",
@@ -1150,7 +1150,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "MagnetDL",
         "parser": {
@@ -1174,13 +1174,13 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": null,
         "tv_keywords_fallback": "{title:original} s{season:2}",
         "tv_keywords_fallback2": "{title:original} season {season}"
     },
     "megapeer": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} {season} Сезон",
         "anime_query": "",
         "base_url": "http://megapeer.ru/browse.php?search=QUERYEXTRA&age=&cat=0&stype=0&sort=0&ascdesc=0",
@@ -1196,7 +1196,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "MegaPeer",
         "parser": {
@@ -1221,11 +1221,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} {season} Сезон"
     },
     "mvgroup": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -1241,7 +1241,7 @@
         "login_object": "{'UserName': USERNAME, 'PassWord': PASSWORD, 'referer': 'http://forums.mvgroup.org/index.php?act=Login&CODE=00', 'CookieDate': '1', 'submit': 'Log In', 'act': 'Login', 'CODE': '01'}",
         "login_path": "/index.php",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "MVGroup",
         "parser": {
@@ -1266,12 +1266,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "myxzorg": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "&genre=0&incldead=0&c3=1&sort=torrent.seeders&direction=desc&page=1",
@@ -1288,7 +1288,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, '_remember_me': 'on', '_csrf_token': 'CSRF_TOKEN'}",
         "login_path": "/login",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "&genre=0&incldead=0&c7=1&c17=1&c8=1&c38=1&c10=1&sort=torrent.seeders&direction=desc&page=1",
         "name": "XtremeZone",
         "parser": {
@@ -1312,12 +1312,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "ncore": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "",
         "base_url": "https://ncore.pro/torrents.php?mire=QUERY",
@@ -1332,7 +1332,7 @@
         "login_object": "{'nev': USERNAME, 'pass': PASSWORD, 'ne_leptessen_ki': '1'}",
         "login_path": "/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "&tipus=kivalasztottak_kozott&kivalasztott_tipus%5B%5D=xvid_hun&kivalasztott_tipus%5B%5D=hd_hun",
         "name": "nCore",
         "parser": {
@@ -1359,11 +1359,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "newstudio": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} \"Сезон {season}, Серия {episode}\"",
         "anime_query": "",
         "base_url": "http://newstudio.tv/tracker.php?nm=QUERYEXTRA&prev_sd=1&prev_a=1&prev_my=0&prev_n=0&prev_shc=1&prev_shf=0&prev_sha=0&prev_shs=1&prev_shr=0&prev_sht=0&o=10&s=2&tm=-1&a=1&sd=1&ds=1&ta=-1&sns=-1&sds=-1&pn&submit=1",
@@ -1378,7 +1378,7 @@
         "login_object": "{'login_username': USERNAME, 'login_password': PASSWORD, 'autologin': '1', 'login': '1'}",
         "login_path": "/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "NewStudio",
         "parser": {
@@ -1404,11 +1404,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} \"Сезон {season}, Серия {episode}\""
     },
     "nitro": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": null,
@@ -1424,7 +1424,7 @@
         "login_object": "{'uid': USERNAME, 'pwd': PASSWORD}",
         "login_path": "/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Nitro.To",
         "parser": {
@@ -1448,15 +1448,15 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "nnmclub": {
-        "anime_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:ru:en} \"Сезон {season}\"",
         "anime_keywords3": "{title:ru:en} \"TV-{season}\"",
-        "anime_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback2": "{title:original} \"Сезон {season}\"",
         "anime_query": "",
         "base_url": "https://nnmclub.to/forum/tracker.php?nm=QUERYEXTRA&prev_sd=1&prev_a=1&prev_my=0&prev_n=0&prev_shc=1&prev_shf=0&prev_sha=0&prev_shs=1&prev_shr=0&prev_sht=0&o=10&s=2&tm=-1&a=1&sd=1&ta=-1&sns=-1&sds=-1&pn&submit=1",
@@ -1471,8 +1471,8 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'autologin': '1', 'login': u'Вход'}",
         "login_path": "/forum/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:ru:en} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:ru:en} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "NNM-Club",
         "parser": {
@@ -1501,13 +1501,13 @@
         "tor_dns_alias": "nnmclub5toro7u65.onion",
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:ru:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:ru:en} \"Сезон {season}\"",
-        "tv_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback2": "{title:original} \"Сезон {season}\""
     },
     "nyaa": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -1523,7 +1523,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Nyaa",
         "parser": {
@@ -1548,12 +1548,12 @@
         "subpage": null,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "rarbg": {
-        "anime_keywords": "{title:en:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:en:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:en:original} s{season:2}",
         "anime_query": "?mode=search&search_string=QUERY&format=json_extended&app_id=script.elementum.burst&token=TOKEN",
         "api_format": {
@@ -1577,7 +1577,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "search_string",
-        "movie_keywords": "{title:en:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:en:original} {year} {x265}",
         "movie_extra_fallback": "search_imdb",
         "movie_keywords_fallback": "{imdb_id}",
         "movie_extra_fallback2": "search_themoviedb",
@@ -1604,11 +1604,11 @@
         "subpage": null,
         "token": "?get_token=get_token&app_id=script.elementum.burst",
         "tv_extra": null,
-        "tv_keywords": "{title:en:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:en:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:en:original} s{season:2}"
     },
     "rustorka": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:ru:en} \"TV-{season}\"",
         "anime_keywords_fallback": "{title:original} \"{season} Сезон\"",
         "anime_query": "",
@@ -1625,7 +1625,7 @@
         "login_object": "{'login_username': USERNAME, 'login_password': PASSWORD, 'login': u'Логин'}",
         "login_path": "/forum/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Rustorka",
         "parser": {
@@ -1651,7 +1651,7 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} \"{season} Сезон\""
     },
     "rutor": {
@@ -1672,8 +1672,8 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:en:ru} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:en:ru} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "0/0/300/2/QUERYEXTRA",
         "name": "RuTor",
         "parser": {
@@ -1733,8 +1733,8 @@
         "login_object": "{'login_username': USERNAME, 'login_password': PASSWORD, 'login': 'Login'}",
         "login_path": "/forum/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:en:ru} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:en:ru} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "RuTracker",
         "parser": {
@@ -1781,7 +1781,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Serialz.tv",
         "parser": {
@@ -1810,7 +1810,7 @@
     },
     "skytorrents": {
         "anime_extra": "",
-        "anime_keywords": "{title:en:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:en:original} s{season:2}e{episode:2} {x265}",
         "anime_query": "",
         "base_url": "https://www.skytorrents.lol/?query=QUERYEXTRA&sort=seeders",
         "color": "FFFFFFFF",
@@ -1823,7 +1823,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Sky torrents",
         "parser": {
@@ -1847,11 +1847,11 @@
         "subpage": null,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}"
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}"
     },
     "sumotorrent": {
         "anime_extra": "",
-        "anime_keywords": "{title:en} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:en} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:en} {season:2}x{episode:2}",
         "anime_keywords_fallback": "{title:en} s{season:2}",
         "anime_query": "",
@@ -1867,7 +1867,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:en} {year} {x265:hevc}",
+        "movie_keywords": "{title:en} {year} {x265}",
         "movie_query": "",
         "name": "SUMOTorrent",
         "parser": {
@@ -1891,12 +1891,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:en} {season:2}x{episode:2}",
         "tv_keywords_fallback": "{title:en} s{season:2}"
     },
     "tfile": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} Сезон {season}",
         "anime_query": "",
         "base_url": "http://search.tfile-home.org/?q=QUERYEXTRA&c=0&g=&act=&y=&ql=&a=&d=&o=&size_min=0&size_max=0",
@@ -1912,7 +1912,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "tfile.me",
         "parser": {
@@ -1937,11 +1937,11 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} Сезон {season}"
     },
     "thepiratebay": {
-        "anime_keywords": "{title:en} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:en} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:en} s{season:2}",
         "anime_keywords_fallback2": "{title:en} season {season}",
         "anime_keywords_fallback3": "{title:en} {season:2}x01",
@@ -1958,7 +1958,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:en} {year} {x265:hevc}",
+        "movie_keywords": "{title:en} {year} {x265}",
         "movie_query": "200",
         "name": "The Pirate Bay",
         "parser": {
@@ -1985,14 +1985,14 @@
         "tor_dns_alias": "piratebayztemzmv.onion",
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": null,
         "tv_keywords_fallback": "{title:en} s{season:2}",
         "tv_keywords_fallback2": "{title:en} season {season}",
         "tv_keywords_fallback3": "{title:en} {season:2}x01"
     },
     "tntvillage": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "EXTRA",
@@ -2008,7 +2008,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "EXTRA",
         "name": "TNTVillage",
         "parser": {
@@ -2033,14 +2033,14 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "toloka": {
-        "anime_keywords": "{title:ua:en} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:ua:en} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:ua:en} Сезон_{season}",
-        "anime_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback2": "{title:original} Сезон_{season}",
         "base_url": "https://toloka.to/tracker.php?nm=QUERYEXTRA&o=10",
         "color": "FFFFFFFF",
@@ -2054,8 +2054,8 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'autologin': '1', 'login': 'Enter'}",
         "login_path": "/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:ua:en} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:ua:en} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Гуртом",
         "parser": {
@@ -2082,13 +2082,13 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:ua:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:ua:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:ua:en} Сезон_{season}",
-        "tv_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords_fallback": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback2": "{title:original} Сезон_{season}"
     },
     "torlock": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "anime/torrents/QUERYEXTRA.html?sort=seeds&order=desc",
@@ -2105,7 +2105,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "movie/torrents/QUERYEXTRA.html?sort=seeds&order=desc",
         "name": "TorLock",
         "parser": {
@@ -2129,7 +2129,7 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
@@ -2150,7 +2150,7 @@
         "login_object": "{'email': USERNAME, 'password': PASSWORD}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "torrent3d.ru",
         "parser": {
@@ -2179,7 +2179,7 @@
         "tv_keywords2": ""
     },
     "torrent9": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -2195,7 +2195,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:fr} {year} {x265:hevc}",
+        "movie_keywords": "{title:fr} {year} {x265}",
         "movie_query": "",
         "name": "Torrent9",
         "parser": {
@@ -2219,12 +2219,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "torrentdownloads": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -2240,7 +2240,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "TorrentDownloads",
         "parser": {
@@ -2264,12 +2264,12 @@
         "subpage": true,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "torrentfunk": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "anime/torrents/QUERYEXTRA.html",
@@ -2285,7 +2285,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "movie/torrents/QUERYEXTRA.html",
         "name": "TorrentFunk",
         "parser": {
@@ -2309,12 +2309,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "torrentgalaxy": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "",
         "base_url": "https://torrentgalaxy.to/torrents.php?c3=1&c46=1&c45=1&c42=1&c4=1&c1=1&c41=1&c5=1&c6=1&c7=1&search=QUERY&lang=0&nox=2&sort=seeders&order=desc",
@@ -2329,7 +2329,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "TorrentGalaxy",
         "parser": {
@@ -2352,11 +2352,11 @@
         "subpage": null,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
     "torrentleech": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:3}",
         "anime_query": "/categories/34",
@@ -2372,7 +2372,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/user/account/login/",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "categories/9,11,37,43,14,13,41,47/query/QUERY",
         "name": "TorrentLeech",
         "parser": {
@@ -2396,12 +2396,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:3}"
     },
     "torrentlt": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "/lt/torrents?cats=35&search=QUERY",
@@ -2417,7 +2417,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/lt/account-login.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original:en} {year} {x265:hevc}",
+        "movie_keywords": "{title:original:en} {year} {x265}",
         "movie_query": "/lt/torrents?cats=33-43-74-34-54-32-78-72-31-76-80-27-52-81-85-86&search=QUERY",
         "name": "Torrent.lt",
         "parser": {
@@ -2441,13 +2441,13 @@
         "subpage": false, 
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original:en} s{season:2}",
         "tv_keywords3": "{title:original:en}",
         "tv_keywords_fallback": "{title}"
     },
     "torrentz": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -2464,7 +2464,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "TorrentZ",
         "parser": {
@@ -2488,12 +2488,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "torrentz2k": {
-        "anime_keywords": "{title:en} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:en} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:en} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:en} s{season:2}",
         "anime_query": "EXTRA",
@@ -2509,7 +2509,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:en} {year} {x265:hevc}",
+        "movie_keywords": "{title:en} {year} {x265}",
         "movie_query": "EXTRA",
         "name": "Torrentz2k",
         "parser": {
@@ -2534,12 +2534,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:en} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:en} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:en} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:en} s{season:2}"
     },
     "uhdbits": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -2555,7 +2555,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD, 'keeplogged': '1', 'login': 'Log in'}",
         "login_path": "/login.php",
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "UHDBits",
         "parser": {
@@ -2579,12 +2579,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
     "worldwidetorrents": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} s{season:2}",
         "anime_query": "",
         "base_url": "https://worldwidetorrents.me/torrents-search.php?search=QUERY",
@@ -2599,7 +2599,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "World Wide Torrents",
         "parser": {
@@ -2622,11 +2622,11 @@
         "subpage": null,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} s{season:2}"
     },
     "yggtorrent": {
-        "anime_keywords": "{title:fr} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:fr} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:fr} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:fr} s{season:2}",
         "anime_query": "",
@@ -2646,8 +2646,8 @@
         "login_path": "https://www2.yggtorrent.se/user/login",
         "movie_extra": "",
         "movie_extra2": "",
-        "movie_keywords": "{title:fr} {year} {x265:hevc}",
-        "movie_keywords2": "{title:en} {year} {x265:hevc}",
+        "movie_keywords": "{title:fr} {year} {x265}",
+        "movie_keywords2": "{title:en} {year} {x265}",
         "movie_query": "",
         "name": "Yggtorrent",
         "parser": {
@@ -2672,12 +2672,12 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:fr} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:fr} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:fr} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:fr} s{season:2}"
     },
     "yourbittorrent": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title:original} s{season:2}",
         "anime_query": "",
@@ -2693,7 +2693,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "YourBitTorrent",
         "parser": {
@@ -2717,7 +2717,7 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title:original} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title:original} s{season:2}"
     },
@@ -2777,7 +2777,7 @@
         "tv_keywords2": null
     },
     "zamunda": {
-        "anime_keywords": "{title:original}+s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original}+s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title}+еп.{episode}",
         "anime_query": "?c25=1&search=QUERY&incldead=1&field=name",
         "base_url": "https://zamunda.net/bananas",
@@ -2793,7 +2793,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "?c42=1&c25=1&c35=1&c46=1&c20=1&c19=1&c5=1&c24=1&c31=1&c28=1&search=QUERY&incldead=1&field=name",
         "name": "Zamunda",
         "parser": {
@@ -2818,11 +2818,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original}+s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original}+s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title}+еп.{episode}"
     },
     "zelka": {
-        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} еп.{episode}",
         "anime_query": "",
         "base_url": "http://zelka.org/browse.php?search=QUERY&cat=0&incldead=0",
@@ -2838,7 +2838,7 @@
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/takelogin.php",
         "movie_extra": "",
-        "movie_keywords": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:original} {year} {x265}",
         "movie_query": "",
         "name": "Zelka",
         "parser": {
@@ -2863,11 +2863,11 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title:original} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} еп.{episode}"
     },
     "zooqle": {
-        "anime_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "anime_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "anime_keywords2": "{title} {season:2}x01|S{season:2}",
         "anime_keywords_fallback": "{title} s{season:2}",
         "anime_query": "",
@@ -2883,7 +2883,7 @@
         "login_object": "",
         "login_path": null,
         "movie_extra": "",
-        "movie_keywords": "{title} {year} {x265:hevc}",
+        "movie_keywords": "{title} {year} {x265}",
         "movie_query": "",
         "name": "Zooqle",
         "parser": {
@@ -2907,7 +2907,7 @@
         "subpage": false,
         "tv_extra": "",
         "tv_extra2": "",
-        "tv_keywords": "{title} s{season:2}e{episode:2} {x265:hevc}",
+        "tv_keywords": "{title} s{season:2}e{episode:2} {x265}",
         "tv_keywords2": "{title} {season:2}x01|S{season:2}",
         "tv_keywords_fallback": "{title} s{season:2}"
     },
@@ -2926,8 +2926,8 @@
         "login_failed": "ACCESS_DENIED",
         "login_object": "{'username': USERNAME, 'password': PASSWORD}",
         "login_path": "/account-login.php",
-        "movie_keywords": "{title:en:ru} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:en:ru} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "&cat=0",
         "name": "Torrent.by",
         "parser": {
@@ -2982,8 +2982,8 @@
         "login_failed": "Имя пользователя введено неверно",
         "login_object": "{'uid': USERNAME, 'pwd': PASSWORD}",
         "login_path": "/login.php",
-        "movie_keywords": "{title:en:ru} {year} {x265:hevc}",
-        "movie_keywords_fallback": "{title:original} {year} {x265:hevc}",
+        "movie_keywords": "{title:en:ru} {year} {x265}",
+        "movie_keywords_fallback": "{title:original} {year} {x265}",
         "movie_query": "&c=0",
         "name": "Filebase",
         "parser": {
